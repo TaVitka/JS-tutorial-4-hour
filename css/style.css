@@ -50,6 +50,20 @@ select {
 
 body {
   min-height: 100vh;
+  text-align: center;
+  background-image: url('../images/train-station.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom left;
+  padding-top: 200px;
+}
 
+h1,
+h2 {
+  color: #ffffff;
+  font-size: 60px;
+  line-height: 2;
+  margin-bottom: 30px;
+  background-color: #44444494;
 }
 

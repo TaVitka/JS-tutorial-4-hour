@@ -67,3 +67,19 @@ h2 {
   background-color: #44444494;
 }
 
+#increment-btn {
+  text-transform: uppercase;
+  padding: 15px 120px;
+  background-color: rgb(78, 4, 4);
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  color: #ffffff;
+  transition: all 0.5s ease-in-out;
+}
+
+#increment-btn:hover {
+  background-color: rgb(4, 80, 23);
+  padding: 20px 100px;
+}
+
